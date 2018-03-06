@@ -117,7 +117,24 @@ Erik Erikson:
         must be faced, and in which a particular basic strength 
         will be required to overcome it.
   Trascendental Topics:
-    
+    - Basic strengths
+      > Hope, Will, Purpose, Proficiency, Fidelity, Love, 
+        Affection and Wisdom are required to develop personality
+        properly.
+    - Inadequate adaptative tendencies
+      > Improper development of basic strenghts cause inadequate
+        tendencies (pure negative/positive tendencies):
+        Dis/Trust: Estrangement/Poor sensory development,
+        Doubt/Autonomy: Compulsion/Obstinacy,
+        Guilt/Initiative: Inhibition/Cruelty,
+        Inferiority/Industriousness:  Inertia/Narrow virtuosity,
+        Roles Confution/Identity cohesion: Repudiation/zealotry,
+        Isolation/Intimacy: Exclusiveness/Promiscuity,
+        Stagnation/Generativity: Rejection/Overextension,
+        Despair/Integrity: Disdain/Presumptuousness
+        Only a balance between the positive and the negative will
+        be an adequate tendency.
   Tools:
     - Psicohistory analysis
-    - Game constructions:
+      > Studing crisis during life can be useful in explaining be
+        havior and personality development.
