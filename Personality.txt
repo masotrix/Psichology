@@ -106,5 +106,18 @@ Murray:
         frees energy; they are primary/viscerogenic or
         secondary/psicogenic.
   Tools:
-    - Tematic aperception:
-      > Emotional proyection over images
+    - Tematic aperception
+      > Emotional proyection over images may reveal prepotency
+        of some needs (for achievement for instance).
+        
+Erik Erikson:
+  Main Idea:
+    - Psicosocial stages
+      > Every personality goes through stages in which a crisis
+        must be faced, and in which a particular basic strength 
+        will be required to overcome it.
+  Trascendental Topics:
+    
+  Tools:
+    - Psicohistory analysis
+    - Game constructions:
