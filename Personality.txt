@@ -118,8 +118,9 @@ Erik Erikson:
         will be required to overcome it.
   Trascendental Topics:
     - Basic strengths
-      > Hope, Will, Purpose, Proficiency, Fidelity, Love, 
-        Affection and Wisdom are required to develop personality
+      > Hope (0-1), Will(1-3), Purpose(3-5), Proficiency(6-11),
+        Fidelity(12-18), Love(18-35), Affection(35-55) and
+        Wisdom(55-inf) are required to develop personality 
         properly.
     - Inadequate adaptative tendencies
       > Improper development of basic strenghts cause inadequate
