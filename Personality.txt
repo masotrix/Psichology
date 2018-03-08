@@ -113,10 +113,18 @@ Murray:
 Erik Erikson:
   Main Idea:
     - Psicosocial stages
-      > Every personality goes through stages in which a crisis
-        must be faced, and in which a particular basic strength 
-        will be required to overcome it.
+      > Every personality goes through epigenetic stages in which 
+        a crisis must be faced, and in which a particular basic
+        strength will be required to overcome it.
   Trascendental Topics:
+    - Identity Crisis
+      > Teenagers, depending on their fidelity, proceed through 
+        different stages, starting from diffusion of the identity, 
+        passing through a moratorium and ending with achievement 
+        of the identity.
+    - Cultural dependence
+      > History, society and culture may influence personality
+        development importantly.
     - Basic strengths
       > Hope (0-1), Will(1-3), Purpose(3-5), Proficiency(6-11),
         Fidelity(12-18), Love(18-35), Affection(35-55) and
@@ -139,3 +147,6 @@ Erik Erikson:
     - Psicohistory analysis
       > Studing crisis during life can be useful in explaining be
         havior and personality development.
+    - Game therapy
+      > Children may show their inner problems through game
+        constructions.
